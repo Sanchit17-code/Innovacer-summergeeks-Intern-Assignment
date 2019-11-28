@@ -4,9 +4,9 @@ Innovacer-summergeeks-Assignment
 
 
 ## Software Used
-1- Eclipse (Version - 2019-03(4.11.0) ) -  IDE 
-2- Apache -tomcat- 8.5.49 - Server 
-3- Mysql -8.0.13 - Database
+1- Eclipse (Version - 2019-03(4.11.0) ) -  IDE   
+2- Apache -tomcat- 8.5.49 - Server    
+3- Mysql -8.0.13 - Database   
 
 ## Jar Files Required
 1- activation-1.1.jar  
