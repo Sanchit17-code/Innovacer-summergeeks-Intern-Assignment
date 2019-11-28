@@ -11,27 +11,29 @@ Innovacer-summergeeks-Assignment
 3- Mysql -8.0.13 - Database
 
 ## Jar Files Required
-1- activation-1.1.jar
-2- commons-codec-1.9.jar
-3- commons-logging-1.2.jar
-4- mail-1.4.5.jar
-5- smtp-1.4.4.jar
-6- mysql-connector-java-5.1.48.jar
-7- guava-18.0.jar
-8 - httpclient-4.5.2.jar
-9- httpcore-4.4.4.jar
-10- jackson-annotation-2.8.7.jar
-11- jackson-core-2.8.7.jar
-12- jackson-databind-2.8.7.jar
-13- jaxb-api-2.2.jar
-14- jjwt-0.4.jar
-15- joda-time-2.5.jar
-16- slf4j-api-1.7.6.jar
-17- stax-api-1.0-2.jar
-18- twilio-7.17.0.jar 
+1- activation-1.1.jar  
+2- commons-codec-1.9.jar  
+3- commons-logging-1.2.jar  
+4- mail-1.4.5.jar  
+5- smtp-1.4.4.jar  
+6- mysql-connector-java-5.1.48.jar  
+7- guava-18.0.jar  
+8 - httpclient-4.5.2.jar  
+9- httpcore-4.4.4.jar  
+10- jackson-annotation-2.8.7.jar  
+11- jackson-core-2.8.7.jar  
+12- jackson-databind-2.8.7.jar  
+13- jaxb-api-2.2.jar  
+14- jjwt-0.4.jar  
+15- joda-time-2.5.jar  
+16- slf4j-api-1.7.6.jar  
+17- stax-api-1.0-2.jar  
+18- twilio-7.17.0.jar   
 ## API used
 1- JavaMail.api - For sending mail
+
 2- JDBC - For connecting Database
+
 3- Twilio API - For sending SMS
 
 ## Framework Used
