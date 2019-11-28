@@ -45,6 +45,7 @@ The database contains 3 tables namely Visitor, Host and Visit.
 
 # Function Documentation
 **In this section , some details  related to parameters passed to the functions  are given.**
+
 1- func1(visitor's name, visitor's phone no, visitor's email, host's name, host's phone no, host's email).
 
 2- sendemail1( host's email, visitor's email, visitor's name, visitor's phone no). -> used to send mail to the host.
