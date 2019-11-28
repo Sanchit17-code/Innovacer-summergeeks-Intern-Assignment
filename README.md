@@ -4,10 +4,8 @@ Innovacer-summergeeks-Assignment
 
 
 ## Software Used
-1- Eclipse (Version - 2019-03(4.11.0) ) -  IDE
-
-2- Apache -tomcat- 8.5.49 - Server
-
+1- Eclipse (Version - 2019-03(4.11.0) ) -  IDE 
+2- Apache -tomcat- 8.5.49 - Server 
 3- Mysql -8.0.13 - Database
 
 ## Jar Files Required
@@ -30,10 +28,8 @@ Innovacer-summergeeks-Assignment
 17- stax-api-1.0-2.jar  
 18- twilio-7.17.0.jar   
 ## API used
-1- JavaMail.api - For sending mail
-
-2- JDBC - For connecting Database
-
+1- JavaMail.api - For sending mail  
+2- JDBC - For connecting Database  
 3- Twilio API - For sending SMS
 
 ## Framework Used
