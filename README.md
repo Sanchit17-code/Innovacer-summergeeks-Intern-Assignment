@@ -51,13 +51,13 @@ The database contains 3 tables namely Visitor, Host and Visit.
 
 3 - sendemail2(visitor's email, visitor's name, visitor's phont no, in-time, out-time, host's name)-> used to send mail to the visitor in the end.
 
-3- updatedb1(visitor's name, visitor's phone no, visitor's email, host's name, host's phone no, host's email). 
+4- updatedb1(visitor's name, visitor's phone no, visitor's email, host's name, host's phone no, host's email). 
 
-4- sendsms( visitor's email, visitor's name, visitor's phone no, host's phone no). -> used to send sms to the host.
+5- sendsms( visitor's email, visitor's name, visitor's phone no, host's phone no). -> used to send sms to the host.
 
-5-  func2( visitor's phone no)
+6-  func2( visitor's phone no)
 
-6-  updatedb2 (visitor's phone no)
+7-  updatedb2 (visitor's phone no)
 
 # Actual Working of the Application
 1- We have a html file ( detail.html) in which all the work related to front end is done.
